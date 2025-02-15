@@ -1,0 +1,14 @@
+:root {
+  --md-primary-fg-color:        blue grey;
+  --md-primary-fg-color--light: light blue;
+  --md-primary-fg-color--dark:  grey;
+}
+
+h1 {
+  --md-default-fg-color--light: light blue;
+  --md-default-fg-color--dark: light blue;
+}
+
+.md-content {
+  --md-typeset-a-color: blue;
+}
