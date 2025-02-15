@@ -23,7 +23,3 @@ We guarantee you will be satisfied with our work.
 ![image](img/plant.png)
 ![image](img/crop.png)
 ![image](img/tree.png)
-
-<footer>
-<p>© 2024 <a href="https://www.delphinai.com">Delphinai Corporation</a></p>
-</footer>
