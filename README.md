@@ -1,5 +1,4 @@
-# STAR Informatics Web Site Generator
-
+# STAR Informatics Website Generator
 
 This repository hosts templates, scripts and contents for the generation of the business web site for STAR (**S**ervices & **T**ools for **A**dvanced **R**esearch) Informatics division of [Delphinai Corporation](https://delphinai.ca).
 
