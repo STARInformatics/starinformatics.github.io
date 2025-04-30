@@ -1,6 +1,6 @@
 # Welcome to STAR Informatics 
 
-STAR (**S**ervices & **T**ools for **A**dvanced **R**esearch) Informatics is a division of [Delphinai Corporation](https://www.delphinai.com) with dedicated natural and computational scientists designing information systems helping the scientific research community manage and interpret the exponentially growing global repository of biomedical knowledge, to empower 21st century personalised medicine developing novel effective treatments to disease and optimise human health.
+STAR (**S**ervices & **T**ools for **A**dvanced **R**esearch) Informatics is a division of [Delphinai Corporation](https://delphinai.ca) with dedicated natural and computational scientists designing information systems helping the scientific research community manage and interpret the exponentially growing global repository of biomedical knowledge, to empower 21st century personalised medicine developing novel effective treatments to disease and optimise human health.
 
 ## What We Offer
 
