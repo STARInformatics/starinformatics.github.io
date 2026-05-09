@@ -4,10 +4,12 @@ repo_url: https://github.com/STARInformatics/starinformatics.github.io
 
 nav:
     - Welcome to STAR Informatics:
-        - Overview: index.md
+        - Overview: docs/index.md
+        - License: docs/license.md
+        - Abbreviations: docs/includes/abbreviations.md
 
 extra_css:
-  - stylesheets/extra.css
+  - docs/stylesheets/extra.css
 
 theme:
     name: "material"
