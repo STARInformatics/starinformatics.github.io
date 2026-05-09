@@ -7,12 +7,12 @@ nav:
         - Overview: docs/index.md
 
 extra_css:
-  - docs/stylesheets/extra.css
+  - stylesheets/extra.css
 
 theme:
     name: "material"
-    favicon: docs/img/favicon.ico
-    logo: docs/img/star-informatics-tree.png
+    favicon: img/favicon.ico
+    logo: img/star-informatics-tree.png
     icon:
         admonition:
         server: material/server
