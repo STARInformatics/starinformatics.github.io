@@ -4,15 +4,15 @@ repo_url: https://github.com/STARInformatics/starinformatics.github.io
 
 nav:
     - Welcome to STAR Informatics:
-        - Overview: index.md
+        - Overview: docs/index.md
 
 extra_css:
-  - stylesheets/extra.css
+  - docs/stylesheets/extra.css
 
 theme:
     name: "material"
-    favicon: img/favicon.ico
-    logo: img/star-informatics-tree.png
+    favicon: docs/img/favicon.ico
+    logo: docs/img/star-informatics-tree.png
     icon:
         admonition:
         server: material/server
